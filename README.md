@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">HELLO <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'AM HARISANTH</h1>
 
-<!--
-**HARI-SANTH/HARI-SANTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<h1 align="centre"> - 𒊹︎︎︎ My name is HaRiSanTh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚠︎ I am not programmer
+
+<h1 align="center"> Connect with me
+
+<p align="center">
+
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+
+  <a href="https://wa.me/918281363016"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+  <a href="https://github.com/HARI-SANTH"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
