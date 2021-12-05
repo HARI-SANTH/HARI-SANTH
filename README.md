@@ -13,8 +13,6 @@
 
 - ⚠︎ I am not programmer
 
-- pattunkil korch plugins thaa 😂
-
 - Pewer varatte 🔥
 
 <h1 align="center"> Connect with me
