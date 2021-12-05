@@ -1,10 +1,21 @@
-<h1 align="center">HELLO <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'AM HARISANTH</h1>
+# <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+HARISANTH's+Profile."
+            alt="Typing SVG"
+        />
+    </a>
 
 </p>
 
-<h1 align="centre"> - 𒊹︎︎︎ My name is HaRiSanTh
+- 𒊹︎︎︎ My name is HaRiSanTh
 
 - ⚠︎ I am not programmer
+
+- pattunkil korch plugins thaa 😂
+
+- Pewer varatte 🔥
 
 <h1 align="center"> Connect with me
 
