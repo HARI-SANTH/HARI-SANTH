@@ -10,9 +10,7 @@
 </p>
 
 
-<div align="center">
-  <img border-radius: 15px src="https://drive.google.com/file/d/1Kcm7aQLNbIAbYA7zBYO_TqiUCtzQpktG/view?usp=drivesdk" width="200" height="200"/>
-  <p align="center">
+![HARI-SANTH](https://github.com/HARI-SANTH.png?size=300)
 
 - 𒊹︎︎︎ My name is HaRiSanTh
 
