@@ -9,9 +9,14 @@
 
 </p>
 
+![logo](https://drive.google.com/file/d/1Kcm7aQLNbIAbYA7zBYO_TqiUCtzQpktG/view?usp=drivesdk)
+
+
 - 𒊹︎︎︎ My name is HaRiSanTh
 
-- ⚠︎ I am not programmer
+- ⚠︎ I am not a proffesional
+
+-learning....
 
 - Pewer varatte 🔥
 
