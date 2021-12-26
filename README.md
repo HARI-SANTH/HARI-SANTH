@@ -10,7 +10,7 @@
 </p>
 
 
-![HARI-SANTH](https://github.com/HARI-SANTH.png?size=300)
+![HARI-SANTH](https://github.com/HARI-SANTH.png?size=200)
 
 - 𒊹︎︎︎ My name is HaRiSanTh
 
