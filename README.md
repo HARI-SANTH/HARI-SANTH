@@ -12,19 +12,22 @@
 
 ![HARI-SANTH](https://github.com/HARI-SANTH.png?size=200)
 
-- 𒊹︎︎︎ My name is HaRiSanTh
+- I'm Hari
 
-- ⚠︎ I am not a proffesional
+- 16 ✨
 
-- learning....
+- Just a begginer
 
-
-
-
+- ❤️ You 🧚
 
 
+<h1 align="center"> Connect with me
 
+<p align="center">
 
+  <a href="https://instagram.com/harisanth56"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 
+  <a href="https://wa.me/918281363016"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-https://gist.github.com/HARI-SANTH/25bbe4e7752b4935739d994651db9e30
+  <a href="https://github.com/HARI-SANTH"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+
