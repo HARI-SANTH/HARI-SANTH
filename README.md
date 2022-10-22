@@ -18,10 +18,10 @@
 
 - Just a begginer
 
-- ❤️ You 🧚
+- I always think about you ❤️
 
 
-<h1 align="center"> Connect with me
+<h1 align="center"> Contact Me
 
 <p align="center">
 
