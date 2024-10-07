@@ -14,11 +14,9 @@
 
 - I'm Hari
 
-- 16 ✨
+- 18 ✨
 
-- Just a begginer
-
-- I always think about you ❤️
+- Just a beginner 
 
 
 <h1 align="center"> Contact Me
